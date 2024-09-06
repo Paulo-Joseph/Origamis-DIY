@@ -19,7 +19,6 @@ Esta aplicação web permite aos usuários pesquisarem por diferentes modelos de
     - Realizar a busca nos dados.
     - Renderizar os resultados na página.
     - Validar a entrada do usuário.
-- **GitHub Pages:** Plataforma de hospedagem estática utilizada para disponibilizar a aplicação online.
 
 ### **Estrutura do Projeto**
 
